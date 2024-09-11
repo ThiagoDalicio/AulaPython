@@ -1,2 +1,2 @@
 # AulaPython
-Aula 2 - curso python
+Aula - curso python
